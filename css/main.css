@@ -31,6 +31,10 @@ html {
   border-bottom: .3rem solid #bea59b;
 }
 
+.nav a:focus {
+  outline-color: #fff;
+}
+
 .nav a:hover span,
 .nav a:focus span {
   border-bottom-color: #fff;
